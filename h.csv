@@ -1,0 +1,11 @@
+area,location,bhk,price
+1000,pune,2,50000
+7000,mumbai,4,70000
+3000,kolhapur,,50000
+7000,pune,1,70000
+1000,kolhapur,,80000
+7000,mumbai,4,90000
+1000,pune,9,40000
+7000,mumbai,4,70000
+1000,pune,6,90000
+7000,mumbai,9,10000
